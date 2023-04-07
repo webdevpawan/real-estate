@@ -1,0 +1,7 @@
+build:
+  env:
+    PHP_VERSION: "7.4"
+run:
+  env:
+    APP_ENV: production
+  command: php index.php

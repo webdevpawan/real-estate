@@ -1,0 +1,8 @@
+{
+    "name": "real",
+    "description": "My PHP project",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    }
+}
